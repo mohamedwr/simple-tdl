@@ -1,0 +1,45 @@
+
+a{ text-decoration: none!important; }
+
+i{ font-size: 22px; }
+
+input{
+  font-weight: 400;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+}
+
+
+main{
+  margin: 10px;
+  border-radius: 3px;
+  padding: 15px;
+}
+
+main form{ margin: 10px; }
+main form div{ margin: 5px; }
+main .forms{ margin: 50px 0; }
+
+main .list .todo{ border-bottom: 3px #fff solid; margin-bottom: 20px; }
+
+
+footer{
+  padding: 10px;
+  text-align: center;
+}
+
+footer .copyright{ font-size: 20px; }
+
+footer .social{ font-size: 35px; }
+footer .social .insta{ color: #C9318A; }
+footer .social .facebook{ color: #0078FF; }
+footer .social .messenger{ color: #00C6FF; }
+footer .social .fab:hover{ color: #f8f9fa; }
