@@ -16,4 +16,5 @@ Open index.php File and Edit the Database Connection Data, The Tables Will be Cr
 Consider Having Latest Stable Versions of PHP and MySQL
 
 ## LICENCE
-The Project is under MIT LICENCE, Consider Checking LICENCE.md File
+The Project is under MIT LICENCE, Consider Checking LICENCE.md File  
+Used Library: [Fontawesome](https://fontawesome.com/) is under MIT Licence
