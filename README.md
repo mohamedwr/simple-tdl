@@ -11,8 +11,8 @@ Your Register to The Website with an ID that is Secret, then You Login in with i
 * HTML
 * CSS
 * Inline JavaScript
-* PHP
-* MySQL
+* [PHP](https://php.net)
+* [MySQL](https://mysql.com)
 
 ## Installation
 Open index.php File and Edit the Database Connection Data, The Tables Will be Created Automatically If not Found in the Database  
